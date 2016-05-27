@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e25d4109-31f0-48f3-94f9-639f4fedfa26" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/collect_all_even-spec.js" afterPath="$PROJECT_DIR$/spec/collect_all_even-spec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collect_all_even.js" afterPath="$PROJECT_DIR$/src/collect_all_even.js" />
-    </list>
+    <list default="true" id="e25d4109-31f0-48f3-94f9-639f4fedfa26" name="Default" comment="" />
     <ignored path="test-post.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,6 +149,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v5.8.0/bin/node" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.8.0/bin/node" />
   </component>
   <component name="RunManager" selected="Node.js.collect_all_even.js">
     <configuration default="false" name="collect_all_even.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="collect_all_even.js" working-dir="$PROJECT_DIR$/src">
@@ -224,12 +221,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1464356041872</updated>
-      <workItem from="1464356043011" duration="5000000" />
+      <workItem from="1464356043011" duration="5676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5000000" />
+    <option name="totallyTimeSpent" value="5676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="24" width="1305" height="744" extended-state="6" />
